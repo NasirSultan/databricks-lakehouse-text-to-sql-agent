@@ -10,7 +10,7 @@ Ask a business question in plain English. LakeMind turns it into SQL, checks tha
 
 ## Demo video
 
-**[Watch the full demo video](PASTE_YOUR_VIDEO_LINK_HERE)**
+**[Watch the full demo video](https://youtu.be/OhBkNsfSuIA)**
 
 The video shows, in order:
 
