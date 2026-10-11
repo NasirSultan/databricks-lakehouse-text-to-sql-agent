@@ -1,0 +1,5 @@
+streamlit
+pandas
+databricks-sdk
+databricks-openai
+openai
